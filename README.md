@@ -16,7 +16,7 @@
 
 <p align="center">
  <!-- <img src="https://raw.githubusercontent.com/arvndvv/arvndvv/master/wizard.gif" width="30%"/></br>-->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvndvv&layout=compact&hide=html" alt="toplangs"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindatneoito&layout=compact&hide=html" alt="toplangs"/>
 </p>
 
 <h4 align="center">Current Status: <i>Learning</i> </h4>
